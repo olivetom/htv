@@ -1,0 +1,4 @@
+Log file created at: 2024/10/11 10:42:55
+Running on machine: csslab-orin-gpu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1011 10:42:55.057786 50495 MVCAMAPI.cpp:350] CameraInit Failed, err:32774,Version:2.1.0.36,FriendlyName:HT-GEF401GC-T1P-C,SN:052141020084
